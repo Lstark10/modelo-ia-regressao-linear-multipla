@@ -78,6 +78,7 @@ O dataset contém **1000 registros** com as seguintes colunas:
 - Teste de Goldfeld-Quandt para homocedasticidade
 
 ## 🚀 Como Usar
+OBS: Caso queira optar por executar em ambientes como Google collab ou Anaconda jupyter, basta descomentar a primeira célula do arquivo ipynb e executar o arquivo caso esteja faltando alguma dependencia. É uma alternativa ao arquivo requirements.txt.
 
 ### Pré-requisitos
 ```bash
@@ -129,7 +130,7 @@ O modelo apresenta métricas de avaliação que podem ser consultadas no noteboo
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3.11**
+- **Python 3.12+**
 - **Pandas**: Manipulação de dados
 - **NumPy**: Operações numéricas
 - **Scikit-learn**: Machine Learning
@@ -159,12 +160,4 @@ O projeto permite identificar quais variáveis têm maior impacto nos níveis de
 ## 📄 Licença
 
 Este projeto é desenvolvido para fins educacionais e de pesquisa.
-
-## 👥 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-- Reportar bugs
-- Sugerir melhorias
-- Adicionar novas funcionalidades
-- Melhorar a documentação
 
